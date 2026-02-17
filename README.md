@@ -503,11 +503,9 @@ copies or substantial portions of the Software.
 ### **Muhammad Hassnain**
 Security Researcher & Penetration Tester
 
-- 📧 Email: [muhammad.hassnain@example.com](mailto:muhammad.hassnain@example.com)
-- 🐦 Twitter: [@mhassnain](https://twitter.com/mhassnain)
+- 📧 Email: [mhassnainktk6@gmail.com](mailto:mhassnainktk6@gmail.com)
 - 💼 LinkedIn: [muhammad-hassnain](https://linkedin.com/in/muhammad-hassnain)
-- 🐙 GitHub: [muhammad-hassnain](https://github.com/muhammad-hassnain)
-- 🌐 Website: [https://muhammadhassnain.com](https://muhammadhassnain.com)
+- 🐙 GitHub: [muhammad-hassnain](https://github.com/muhammad-hassnain8)
 
 ---
 
